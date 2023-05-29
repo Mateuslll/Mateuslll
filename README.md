@@ -1,4 +1,4 @@
-### Oi pessoal, Meu nome é Mateus Lima (*Gelado) 👋
+### Oi pessoal, Meu nome é Mateus Lima (*Gelado 🧊 ) 👋
 
 ## Um pouco sobre mim!!
 
