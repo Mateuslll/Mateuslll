@@ -5,7 +5,7 @@
 - 💻 Atualmente sou estudante de engenharia da computação pela UEFS (Universidade Estadual de Feira de Santana)!
 - 😎 Eu amo mexer com back-end, mas também domino no platormas low e no code no desenvolvimento web ;)
 - 📚 Gosto de me aventurar em novos desafios e solucionar problemas!
-- 🎮 No meu tempo livre, curto ler sobre filosofia, jogo bola(ou tento), do uma "palinha" na viola!
+- 🎮 No meu tempo livre, curto ler sobre filosofia, jogo bola (ou tento -_-), lanço uma "palinha" na viola!
 - 🙊 Fun fact: Sou Fanático por One Piece
 
 ### Languages and Tools:
