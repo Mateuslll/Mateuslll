@@ -3,6 +3,7 @@
 ## Um pouco sobre mim!!
 
 - 💻 Atualmente sou estudante de engenharia da computação pela UEFS (Universidade Estadual de Feira de Santana)!
+- 💻 Ceo da MB Company solutions desde 2020, desenvolvendo websites e automações!
 - 😎 Amo mexer com back-end, mas domino no plataformas low e no code no desenvolvimento web ;)
 - 📚 Gosto de me aventurar em novos desafios e solucionar problemas!
 - 🎮 No meu tempo livre, curto ler sobre filosofia, video games, jogo bola (ou tento -_-), lanço uma "palinha" na viola!
