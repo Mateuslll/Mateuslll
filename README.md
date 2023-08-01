@@ -9,30 +9,24 @@
 - 🎮 No meu tempo livre, curto ler sobre filosofia, video games, jogo bola (ou tento -_-), lanço uma "palinha" na viola!
 - 🙊 Fun fact: Sou Fanático por One Piece
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="C++" width="26px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="26px"src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/metro/26/000000/sql.png" />
-<img align="left" alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /><img />
-<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/windows/32/000000/figma.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="C++" width="40px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/metro/26/000000/sql.png" />
+<img align="left" alt="Mongodb" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /><img />
 <br />
 <br />
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<div align="center">
+  <a href="https://github.com/mateuslll">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuslll&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslll&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslll&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 ### Páginas e portfólio
 
