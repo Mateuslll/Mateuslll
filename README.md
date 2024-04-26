@@ -26,8 +26,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuslll&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslll&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
-
 ### Páginas e portfólio
 
   - Linkedln  [![linkedln](https://github.com/Mateuslll/images/blob/0df77e06033a6f17261439c5f486ab7a77f689ef/linkedin%20(1).png)](https://www.linkedin.com/in/mateus-lima-7a1257171/)
