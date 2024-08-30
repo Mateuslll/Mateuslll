@@ -2,12 +2,12 @@
 
 ## Um pouco sobre mim!!
 
-- 💻 Atualmente sou estudante de engenharia da computação pela UEFS (Universidade Estadual de Feira de Santana)!
-- 💻 Ceo da MB Company solutions desde 2020, desenvolvendo websites e automações!
-- 😎 Amo mexer com back-end, mas domino no plataformas low e no code no desenvolvimento web ;)
-- 📚 Gosto de me aventurar em novos desafios e solucionar problemas!
-- 🎮 No meu tempo livre, curto ler sobre filosofia, video games, jogo bola (ou tento -_-), lanço uma "palinha" na viola!
-- 🙊 Fun fact: Sou Fanático por One Piece
+- 💻 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera, após ter iniciado minha trajetória acadêmica em Engenharia da Computação pela UEFS (Universidade Estadual de Feira de Santana).
+- 💼 CEO da MB Company Solutions desde 2020, onde lidero o desenvolvimento de websites, automações e soluções digitais inovadoras.
+- 🛠 Especialista em Back-end, com forte domínio em Java e Spring Boot, além de experiência em plataformas Low-Code e No-Code para desenvolvimento web ágil e eficiente.
+- 🚀 Apaixonado por novos desafios e resolução de problemas complexos, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento técnico.
+- 🎮 No meu tempo livre, gosto de explorar temas de filosofia, jogar video games, bater uma bola (ou pelo menos tentar 😅), e arranhar algumas músicas na viola.
+- 🙊 Fun fact: Sou fanático por One Piece e estou sempre atualizado com as aventuras do Luffy e sua tripulação.
 
   ### Linguagens e Ferramentas:
 
