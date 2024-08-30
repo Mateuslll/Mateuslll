@@ -33,5 +33,4 @@
   - Linkedln  [![linkedln](https://github.com/Mateuslll/images/blob/0df77e06033a6f17261439c5f486ab7a77f689ef/linkedin%20(1).png)](https://www.linkedin.com/in/mateus-lima-7a1257171/)
   - Curriculo Lattes [![lattes](https://github.com/Mateuslll/images/blob/0df77e06033a6f17261439c5f486ab7a77f689ef/project-management%20(1).png)](http://lattes.cnpq.br/9642175757684803)
   - Agende seu projeto comigo! [![MBCompany](https://github.com/Mateuslll/images/blob/0df77e06033a6f17261439c5f486ab7a77f689ef/laptop.png)](https://mbcompany.com.br)
-  - Meu instagram [![Instagram](https://github.com/Mateuslll/images/blob/0df77e06033a6f17261439c5f486ab7a77f689ef/instagram%20(1).png)](https://www.instagram.com/mts_lima19)
  
