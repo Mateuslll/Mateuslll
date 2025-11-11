@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim!!
 
-- 💻 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera, após ter iniciado minha trajetória acadêmica em Engenharia da Computação pela UEFS (Universidade Estadual de Feira de Santana).
+- 💻 Atualmente, Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera, após ter iniciado minha trajetória acadêmica em Engenharia da Computação pela UEFS (Universidade Estadual de Feira de Santana).
 - 💼 CEO da MB Company Solutions desde 2020, onde lidero o desenvolvimento de websites, automações e soluções digitais inovadoras.
 - 🛠 Especialista em Back-end, com forte domínio em Java e Spring Boot, além de experiência em plataformas desenvolvimento web ágil e eficiente.
 - 🚀 Apaixonado por novos desafios e resolução de problemas complexos, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento técnico.
