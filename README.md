@@ -6,9 +6,6 @@
 - 💼 CEO da MB Company Solutions desde 2020, onde lidero o desenvolvimento de websites, automações e soluções digitais inovadoras.
 - 🛠 Especialista em Back-end, com forte domínio em Java e Spring Boot, além de experiência em plataformas desenvolvimento web ágil e eficiente.
 - 🚀 Apaixonado por novos desafios e resolução de problemas complexos, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento técnico.
-- 🎮 No meu tempo livre, gosto de explorar temas de filosofia, jogar video games, bater uma bola (ou pelo menos tentar 😅), e arranhar algumas músicas na viola.
-- 🙊 Fun fact: Sou fanático por One Piece e estou sempre atualizado com as aventuras do Luffy e sua tripulação.
-
   ### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
